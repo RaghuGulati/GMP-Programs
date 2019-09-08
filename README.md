@@ -23,7 +23,7 @@ Then go to the gmp directory and execute the following:
 After executing all the commands you are ready to write program.
 
 # Compiling and Executing the Program
-Write any C/C++ program using gmp or take the sample program prg1.cpp from this repository.
+Write any C/C++ program using gmp or take the sample program prg1.cpp or prg1.c from this repository.
 
 for compiling the program:
 
