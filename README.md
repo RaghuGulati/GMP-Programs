@@ -26,11 +26,15 @@ After executing all the commands you are ready to write program.
 Write any C/C++ program using gmp or take the sample program prg1.cpp from this repository.
 
 for compiling the program:
+
 		g++ -o prg1 prg1.cpp -lgmpxx -lgmp //for c++
+		
 		gcc -o prg1c prg1.c -lgmp 	   //for c
 
 for executing the code:
+
 		./prg1	//c++ executable file
+
 		./prg1c // c executable file
 
 
