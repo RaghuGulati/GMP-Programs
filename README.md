@@ -5,7 +5,7 @@ rational numbers, and floating-point numbers. It aims to provide the fastest pos
 arithmetic for all applications that need high precesion than is directly supported by
 basic C types.
 
-# Installing
+# Installing GMP
 
 firstly clone the following github repository:
 
